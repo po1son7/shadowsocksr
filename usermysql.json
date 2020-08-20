@@ -1,0 +1,13 @@
+{
+    "host": "MYSQL_HOST",
+    "port": MYSQL_PORT,
+    "user": "MYSQL_USER",
+    "password": "MYSQL_PASS",
+    "db": "MYSQL_DB",
+    "node_id": 0,
+    "transfer_mul": RATE,
+    "ssl_enable": 0,
+    "ssl_ca": "",
+    "ssl_cert": "",
+    "ssl_key": ""
+}
